@@ -1,4 +1,4 @@
-﻿<list_name>name="[B][COLOR burlywood]מוזיקה וערוצים[/COLOR][/B]"&icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2U3r_Bv2zVi13OoevuGF2A-gfqsZbmwKbp3OhP_MAFAYxqxNIJQ"&fanart="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHnSuWNJoHHUcuuYA681hAN4Bqi4Cjjf5q5HltNZ3_lA-MFGw5WQ"&plot=" כל סוגי המוזיקה"&lang="heb"</list_name>
+<list_name>name="[B][COLOR burlywood]מוזיקה וערוצים[/COLOR][/B]"&icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2U3r_Bv2zVi13OoevuGF2A-gfqsZbmwKbp3OhP_MAFAYxqxNIJQ"&fanart="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHnSuWNJoHHUcuuYA681hAN4Bqi4Cjjf5q5HltNZ3_lA-MFGw5WQ"&plot=" כל סוגי המוזיקה"&lang="heb"</list_name>
 
 <category>
 <category_name>name="[B][COLOR orange]מוזיקה ישראלית [/COLOR][/B]"&icon="https://lh3.googleusercontent.com/LAqtQDJbbILOm7ceHbFWFVO5iQjOcgigZrAY8teGR30HvZhVIgO91BaK9sjHJSlQUDg"&fanart="https://stmed.net/sites/default/files/orange-lantern-corps-wallpapers-27653-9093954.jpg"&plot="האזנה נעימה"&data=@@ @@</category_name>
@@ -1419,6 +1419,15 @@
 </category-3>
 <category-3>
 <item-3>name="השכן"&link="https://server2.sratim-il.com/%D7%94%D7%A9%D7%9B%D7%9F.mp4"&icon="http://image.tmdb.org/t/p/original//ivGUWtFEPrbMlzsvbvD5UB8iUkT.jpg"&fanart="http://image.tmdb.org/t/p/original//6FLChKfbompSy7SqTwgkBwkX5aW.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":"השכן","Season": " ","Episode": " ","originaltitle": "השכן","year": "2018","dateadded": "2018-10-7 09:43:54","plot": " ","heb title": "השכן","mediatype": "movie","genre": "מותחן/דרמה","rating": "0","director": " ","studios": " ","writer": " ","code": "tt3905764","imdbnumber": "tt3905764","imdb": "tt3905764","tmdb": " ","votes": " ","trailer": " ","poster": "http://image.tmdb.org/t/p/original//6FLChKfbompSy7SqTwgkBwkX5aW.jpg","icon": "http://image.tmdb.org/t/p/original//ivGUWtFEPrbMlzsvbvD5UB8iUkT.jpg"}@@</item-3>
+</category-3>
+</category-2>
+<category-2>
+<category_name-2>name="[B][COLOR   aqua] לסרטים [/COLOR][/B][B][COLOR coral]לריות[/COLOR][/B][B][COLOR yellow]פופו[/COLOR][/B][B][COLOR green]חבת [/COLOR][/B][B][COLOR aqua]הר[/COLOR][/B]"&icon="http://cdn.shopify.com/s/files/1/0999/2470/articles/one242415-retiring_1024x1024.jpg?v=1496856749"&fanart="http://redeneobux.com/wp-content/uploads/2018/07/Man_Cave_Entertainment_Kodi_Addon.jpg"&plot=" הרחבות הסרטים הטובות ביותר"&data=@@ @@</category_name-2>
+<category-3>
+<item-3>name=" 1.ויקטורי"&link="plugin://plugin.video.allmoviesin"&icon="http://l.rgbimg.com/cache1nGiRU/users/h/hi/hisks/600/mhYkkWm.jpg"&fanart="http://i.epvpimg.com/x0phh.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" 1.ויקטורי","Season": " ","Episode": " ","originaltitle": " 1.ויקטורי","year": "","dateadded": "2018-11-8 03:34:06","plot": "","heb title": " 1.ויקטורי","mediatype": "","genre": "","rating": "0","director": " ","studios": " ","writer": " ","code": "","imdbnumber": "","imdb": "","tmdb": " ","votes": " ","trailer": " ","poster": "http://i.epvpimg.com/x0phh.jpg","icon": "http://l.rgbimg.com/cache1nGiRU/users/h/hi/hisks/600/mhYkkWm.jpg"}@@</item-3>
+</category-3>
+<category-3>
+<item-3>name=" 2.הנוקם"&link="plugin://plugin.video.TheFirstAvenger"&icon="https://lh3.googleusercontent.com/mkJ2BMIwR6TnjimU67SG0FItHt6Mjo_fbNe_b7qQZFCnuh0L7-kBpbggAWeAUYMhkjrDLYvirgcM"&fanart="https://wallpapercave.com/wp/vDy3sUb.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" 2.הנוקם","Season": " ","Episode": " ","originaltitle": " 2.הנוקם","year": " ","dateadded": "2018-11-8 03:43:24","plot": " ","heb title": " 2.הנוקם","mediatype": "","genre": "","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": "https://wallpapercave.com/wp/vDy3sUb.jpg","icon": "https://lh3.googleusercontent.com/mkJ2BMIwR6TnjimU67SG0FItHt6Mjo_fbNe_b7qQZFCnuh0L7-kBpbggAWeAUYMhkjrDLYvirgcM"}@@</item-3>
 </category-3>
 </category-2>
 </category>
